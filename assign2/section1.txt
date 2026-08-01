@@ -1,0 +1,14 @@
+q1
+function prints first then 10
+
+q2
+fn loses obj but obj getName gives Harsh
+
+q3
+it prints 5 five times because var uses same i
+
+q4
+it prints John because frozen object cannot change
+
+q5
+double equal converts values and triple equal checks type too
